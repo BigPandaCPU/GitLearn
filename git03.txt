@@ -2,3 +2,4 @@ master分支上操作git03
 master分支上操作git031
 在main分支上操作git03.txt,这是在main分支上的操作
 撤销暂存区的修改
+本地仓库回退
