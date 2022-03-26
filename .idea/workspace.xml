@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d00f2545-1477-4880-b37b-6b191fc7aaca" name="Default Changelist" comment="撤销本地仓库的修改">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="d00f2545-1477-4880-b37b-6b191fc7aaca" name="Default Changelist" comment="本地仓库回退">
       <change afterPath="$PROJECT_DIR$/.idea/GitLearn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/git03.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -88,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648284187775</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="本地仓库回退">
+      <created>1648285594193</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648285594193</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +148,7 @@
     <MESSAGE value="main分支上操作git03.txt" />
     <MESSAGE value="main分支上操作git03.txt，第二次操作" />
     <MESSAGE value="撤销本地仓库的修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="撤销本地仓库的修改" />
+    <MESSAGE value="本地仓库回退" />
+    <option name="LAST_COMMIT_MESSAGE" value="本地仓库回退" />
   </component>
 </project>
