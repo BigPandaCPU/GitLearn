@@ -1,0 +1,153 @@
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1648203378463)
++++ b/.idea/modules.xml	(date 1648203378463)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/GitLearn.iml" filepath="$PROJECT_DIR$/.idea/GitLearn.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1648203378474)
++++ b/.idea/misc.xml	(date 1648203378474)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/Project_Default.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/Project_Default.xml b/.idea/inspectionProfiles/Project_Default.xml
+new file mode 100644
+--- /dev/null	(date 1648203378303)
++++ b/.idea/inspectionProfiles/Project_Default.xml	(date 1648203378303)
+@@ -0,0 +1,34 @@
++<component name="InspectionProjectProfileManager">
++  <profile version="1.0">
++    <option name="myName" value="Project Default" />
++    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
++      <option name="ignoredPackages">
++        <value>
++          <list size="21">
++            <item index="0" class="java.lang.String" itemvalue="batchgenerators" />
++            <item index="1" class="java.lang.String" itemvalue="tifffile" />
++            <item index="2" class="java.lang.String" itemvalue="scikit_image" />
++            <item index="3" class="java.lang.String" itemvalue="hiddenlayer" />
++            <item index="4" class="java.lang.String" itemvalue="onnx_tf" />
++            <item index="5" class="java.lang.String" itemvalue="h5py" />
++            <item index="6" class="java.lang.String" itemvalue="scikit_learn" />
++            <item index="7" class="java.lang.String" itemvalue="torch" />
++            <item index="8" class="java.lang.String" itemvalue="requests" />
++            <item index="9" class="java.lang.String" itemvalue="numpy" />
++            <item index="10" class="java.lang.String" itemvalue="dicom2nifti" />
++            <item index="11" class="java.lang.String" itemvalue="tqdm" />
++            <item index="12" class="java.lang.String" itemvalue="pandas" />
++            <item index="13" class="java.lang.String" itemvalue="cupy" />
++            <item index="14" class="java.lang.String" itemvalue="matplotlib" />
++            <item index="15" class="java.lang.String" itemvalue="SimpleITK" />
++            <item index="16" class="java.lang.String" itemvalue="Cython" />
++            <item index="17" class="java.lang.String" itemvalue="onnx" />
++            <item index="18" class="java.lang.String" itemvalue="cupy_cuda111" />
++            <item index="19" class="java.lang.String" itemvalue="skimage" />
++            <item index="20" class="java.lang.String" itemvalue="Pillow" />
++          </list>
++        </value>
++      </option>
++    </inspection_tool>
++  </profile>
++</component>
+\ No newline at end of file
+Index: .idea/GitLearn.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/GitLearn.iml b/.idea/GitLearn.iml
+new file mode 100644
+--- /dev/null	(date 1648203378449)
++++ b/.idea/GitLearn.iml	(date 1648203378449)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++  <component name="TestRunnerService">
++    <option name="PROJECT_TEST_RUNNER" value="pytest" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1648203378792)
++++ b/.idea/.gitignore	(date 1648203378792)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Datasource local storage ignored files
++/../../../../:\wangxiong\GitLearn\.idea/dataSources/
++/dataSources.local.xml
++# Editor-based HTTP Client requests
++/httpRequests/
+Index: .idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+new file mode 100644
+--- /dev/null	(date 1648203378490)
++++ b/.idea/inspectionProfiles/profiles_settings.xml	(date 1648203378490)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1648203378508)
++++ b/.idea/vcs.xml	(date 1648203378508)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
